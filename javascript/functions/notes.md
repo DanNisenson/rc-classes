@@ -1,9 +1,13 @@
 1. Functions
 
 -   Recap
+
     -   What is a function?
     -   When do we use them?
     -   Reusable block of code
+
+-   Exercises
+
 -   Function arguments (inputs)
 -   Function return (output)
 -   Function reference
